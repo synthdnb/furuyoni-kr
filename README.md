@@ -1,13 +1,13 @@
 # README - KR
 이 파일은 BakaFire Party님이 제작한 보드 게임 『신막 벚꽃 필 무렵에 결투를』을 한국어로 번역한 것입니다.  
-이 번역 파일은 공식 번역본이 아니며 개인이 제작한 것입니다. 따라서 공식에서는 번역이 옳은지 보증하지 않습니다.
+이 번역 파일은 공식 번역본이 아니며 개인이 제작한 것입니다. 따라서 공식에서는 번역이 옳은지 보증하지 않습니다.  
 이미지는 공식에서 배포하고 있는 2차 창작 지원 세트 『후루요니 커먼즈』를 사용했습니다.   
 해당 이미지에 한국어 번역을 붙여 비영리 목적으로 배포하는 것에 대해서는 원작자인 BakaFire Party님에게 허가를 받았습니다.  
 2차 배포는 금지하고 있습니다.  
 
 후루요니 커먼즈/BakaFire,TOKIAME
 
-[벚꽃 필 무렵에 결투를』공식 사이트](https://main-bakafire.ssl-lolipop.jp//furuyoni/)  
+[『벚꽃 필 무렵에 결투를』공식 사이트](https://main-bakafire.ssl-lolipop.jp//furuyoni/)  
 
 [『ふるよにコモンズ』배포 페이지](https://main-bakafire.ssl-lolipop.jp//furuyoni/na/rule.html)  
 
