@@ -1,6 +1,3 @@
-# Download
-https://drive.google.com/open?id=1lz5z5da7nPwSCUORDy1rll_BIy0yMdMR
-
 # README - KR
 이 파일은 BakaFire Party님이 제작한 보드 게임 『신막 벚꽃 필 무렵에 결투를』을 한국어로 번역한 것입니다.
 이 번역 파일은 공식 번역본이 아니라 개인이 제작한 것입니다. 따라서 번역이 옳다고 공식적으로 보증하지 않습니다.
@@ -30,3 +27,9 @@ https://main-bakafire.ssl-lolipop.jp//furuyoni/
 
 『ふるよにコモンズ』配布ページ
 https://main-bakafire.ssl-lolipop.jp//furuyoni/na/rule.html
+
+# Download
+https://drive.google.com/open?id=1lz5z5da7nPwSCUORDy1rll_BIy0yMdMR
+
+# Changelog
+2019-01-17 첫 배포
