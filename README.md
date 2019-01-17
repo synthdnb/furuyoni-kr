@@ -33,6 +33,6 @@
 * 2019-01-17: 첫 배포
 
 # 번역에 도움을 주신 분들
-@iteratorP
-@Jeddal_Yail0
-@Senrits_Kano
+@iteratorP  
+@Jeddal_Yail0  
+@Senrits_Kano  
