@@ -27,7 +27,7 @@
 [『ふるよにコモンズ』配布ページ](https://main-bakafire.ssl-lolipop.jp//furuyoni/na/rule.html)  
 
 # Download
-[Download Link](https://drive.google.com/open?id=1lz5z5da7nPwSCUORDy1rll_BIy0yMdMR)  
+[Download Link](https://drive.google.com/open?id=1QKPjyfPlPjOj5TR3GEKCxAyRvemWWlyW)  
 
 # Changelog
 * 2019-01-17: 첫 배포
