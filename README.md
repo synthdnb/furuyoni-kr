@@ -32,4 +32,4 @@ https://main-bakafire.ssl-lolipop.jp//furuyoni/na/rule.html
 https://drive.google.com/open?id=1lz5z5da7nPwSCUORDy1rll_BIy0yMdMR
 
 # Changelog
-2019-01-17 첫 배포
+* 2019-01-17 첫 배포
