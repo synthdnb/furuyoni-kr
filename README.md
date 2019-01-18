@@ -27,10 +27,14 @@
 [『ふるよにコモンズ』配布ページ](https://main-bakafire.ssl-lolipop.jp//furuyoni/na/rule.html)  
 
 # Download
-[Download Link](https://drive.google.com/open?id=1QKPjyfPlPjOj5TR3GEKCxAyRvemWWlyW)  
+[시즌 1 인쇄용 PDF](https://drive.google.com/open?id=1roeW8kDJR8NsBmhRaMfmyyTJ-So51QqJ)  
+[시즌 2 인쇄용 PDF](https://drive.google.com/open?id=1wgT3VSjAY5s5H7uifKEa0FNIjxJIhq-c)  
+[시즌 3 인쇄용 PDF](https://drive.google.com/open?id=1GpRGe6xZVHVnkYb7AvwILgNbFtkXy2Bb)  
+[전체 카드 PNG](https://drive.google.com/open?id=1QKPjyfPlPjOj5TR3GEKCxAyRvemWWlyW)  
 
 # Changelog
 * 2019-01-17: 첫 배포
+* 2019-01-18: 인쇄용 PDF 추가
 
 # 번역에 도움을 주신 분들
 @iteratorP  
