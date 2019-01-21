@@ -27,14 +27,16 @@
 [『ふるよにコモンズ』配布ページ](https://main-bakafire.ssl-lolipop.jp//furuyoni/na/rule.html)  
 
 # Download
-[시즌 1 인쇄용 PDF](https://drive.google.com/open?id=1roeW8kDJR8NsBmhRaMfmyyTJ-So51QqJ)  
-[시즌 2 인쇄용 PDF](https://drive.google.com/open?id=1wgT3VSjAY5s5H7uifKEa0FNIjxJIhq-c)  
-[시즌 3 인쇄용 PDF](https://drive.google.com/open?id=1GpRGe6xZVHVnkYb7AvwILgNbFtkXy2Bb)  
-[전체 카드 PNG](https://drive.google.com/open?id=1QKPjyfPlPjOj5TR3GEKCxAyRvemWWlyW)  
+[시즌 1 인쇄용 PDF](https://drive.google.com/open?id=10nlexT8ZUpCZCq8IO3LvgZ4iagDL97SM)  
+[시즌 2 인쇄용 PDF](https://drive.google.com/open?id=1cFCKGeVm_dRRvzVvNaxHWkYofknI_yOK)  
+[시즌 3 인쇄용 PDF](https://drive.google.com/open?id=1AjdiiNOVydmQeEVkvAjjqzyTO2uffGBp)  
+[전체 카드 PNG](https://drive.google.com/open?id=1ZyCdwQRfn4pVRnGQ6H7MJJ3iLI6N1uo7)  
 
 # Changelog
-* 2019-01-17: 첫 배포
-* 2019-01-18: 인쇄용 PDF 추가
+* 2019-01-22 : na_00_hajimari_b_n_4 제목 수정. 가로카드 인쇄용 PDF에서 깨 문제 수정.
+* 2019-01-18 : 인쇄용 PDF 추가
+* 2019-01-17 : 첫 배포
+
 
 # 번역에 도움을 주신 분들
 @iteratorP  
