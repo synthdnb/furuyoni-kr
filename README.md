@@ -29,11 +29,12 @@
 # Download
 [시즌 1 인쇄용 PDF](https://drive.google.com/open?id=10nlexT8ZUpCZCq8IO3LvgZ4iagDL97SM)  
 [시즌 2 인쇄용 PDF](https://drive.google.com/open?id=1cFCKGeVm_dRRvzVvNaxHWkYofknI_yOK)  
-[시즌 3 인쇄용 PDF](https://drive.google.com/open?id=1AjdiiNOVydmQeEVkvAjjqzyTO2uffGBp)  
-[전체 카드 PNG](https://drive.google.com/open?id=1ZyCdwQRfn4pVRnGQ6H7MJJ3iLI6N1uo7)  
+[시즌 3 인쇄용 PDF](https://drive.google.com/open?id=1kGpSgucyQ7QoDAVYEbIWwjgQsIt1edQg)  
+[전체 카드 PNG](https://drive.google.com/open?id=1CMMaJkBINSaIhrmmaIpBnYQfd0f7bBcQ)  
 
 # Changelog
-* 2019-01-22 : na_00_hajimari_b_n_4 제목 수정. 가로카드 인쇄용 PDF에서 깨 문제 수정.
+* 2019-01-30 : 호노카 na_14_honoka_o_n_1_ex2 돌격령식 효과 오류 수정  
+* 2019-01-22 : na_00_hajimari_b_n_4 카드명 수정. 가로카드 인쇄용 PDF에서 깨지는 문제 수정.
 * 2019-01-18 : 인쇄용 PDF 추가
 * 2019-01-17 : 첫 배포
 
