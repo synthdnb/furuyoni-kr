@@ -34,6 +34,7 @@
 [카드 요약표](https://drive.google.com/open?id=1moWekSAk_RQ7-52aUsF5yRM_-DAkI4ZH)
 
 # Changelog
+* 2019-02-09 : 요약본 PDF 추가
 * 2019-01-30 : 호노카 na_14_honoka_o_n_1_ex2 돌격령식 효과 오류 수정  
 * 2019-01-22 : na_00_hajimari_b_n_4 카드명 수정. 가로카드 인쇄용 PDF에서 깨지는 문제 수정.
 * 2019-01-18 : 인쇄용 PDF 추가
@@ -44,4 +45,4 @@
 @iteratorP  
 @Jeddal_Yail0  
 @Senrits_Kano  
-@HELY
+@HELY  
