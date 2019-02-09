@@ -31,6 +31,7 @@
 [시즌 2 인쇄용 PDF](https://drive.google.com/open?id=1cFCKGeVm_dRRvzVvNaxHWkYofknI_yOK)  
 [시즌 3 인쇄용 PDF](https://drive.google.com/open?id=1kGpSgucyQ7QoDAVYEbIWwjgQsIt1edQg)  
 [전체 카드 PNG](https://drive.google.com/open?id=1CMMaJkBINSaIhrmmaIpBnYQfd0f7bBcQ)  
+[카드 요약표](https://drive.google.com/open?id=1moWekSAk_RQ7-52aUsF5yRM_-DAkI4ZH)
 
 # Changelog
 * 2019-01-30 : 호노카 na_14_honoka_o_n_1_ex2 돌격령식 효과 오류 수정  
@@ -43,3 +44,4 @@
 @iteratorP  
 @Jeddal_Yail0  
 @Senrits_Kano  
+@HELY
