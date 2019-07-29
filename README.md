@@ -30,7 +30,7 @@
 [시즌 1 인쇄용 PDF](https://drive.google.com/open?id=10nlexT8ZUpCZCq8IO3LvgZ4iagDL97SM)  
 [시즌 2 인쇄용 PDF](https://drive.google.com/open?id=1cFCKGeVm_dRRvzVvNaxHWkYofknI_yOK)  
 [시즌 3 인쇄용 PDF](https://drive.google.com/open?id=1kGpSgucyQ7QoDAVYEbIWwjgQsIt1edQg)  
-[시즌 4 인쇄용 PDF](https://drive.google.com/open?id=1gSULw7GDQwt4mLHuIFM-ShqVTXBtctLZ)
+[시즌 4 인쇄용 PDF](https://drive.google.com/open?id=1gSULw7GDQwt4mLHuIFM-ShqVTXBtctLZ)  
 [전체 카드 PNG](https://drive.google.com/open?id=1CMMaJkBINSaIhrmmaIpBnYQfd0f7bBcQ)  
 [카드 요약표](https://drive.google.com/open?id=1moWekSAk_RQ7-52aUsF5yRM_-DAkI4ZH)
 
