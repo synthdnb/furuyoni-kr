@@ -32,10 +32,10 @@
 [시즌 3 인쇄용 PDF](https://drive.google.com/open?id=1kGpSgucyQ7QoDAVYEbIWwjgQsIt1edQg)  
 [시즌 4 인쇄용 PDF](https://drive.google.com/open?id=1M6ViDLv9HJQ4DBbrioYMMwd5BHj56rsQ)  
 [전체 카드 PNG](https://drive.google.com/open?id=1CMMaJkBINSaIhrmmaIpBnYQfd0f7bBcQ)  
-[카드 요약표](https://drive.google.com/open?id=1moWekSAk_RQ7-52aUsF5yRM_-DAkI4ZH)
+[카드 요약표](https://drive.google.com/open?id=1OF2Ou6oBTPbc0zpjGwwfumI_RLkPBl58)
 
 # Changelog
-* 2019-07-30 : 호노카 na_14_honoka_o_s_3_s4 사계는 다시 돌아온다 텍스트 수정
+* 2019-07-30 : 호노카 na_14_honoka_o_s_3_s4 사계는 다시 돌아온다 텍스트 수정, 요약 PDF 추가  
 * 2019-07-30 : 시즌 4 인쇄용 PDF 추가
 * 2019-02-09 : 요약본 PDF 추가
 * 2019-01-30 : 호노카 na_14_honoka_o_n_1_ex2 돌격령식 효과 오류 수정  
