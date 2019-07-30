@@ -29,8 +29,11 @@
 # Download
 [시즌 1 인쇄용 PDF](https://drive.google.com/open?id=10nlexT8ZUpCZCq8IO3LvgZ4iagDL97SM)  
 [시즌 2 인쇄용 PDF](https://drive.google.com/open?id=1cFCKGeVm_dRRvzVvNaxHWkYofknI_yOK)  
+
+현재 시즌 3, 4는 PDF사이즈가 작게 나오는 문제가 있습니다. 수정중입니다.  
 [시즌 3 인쇄용 PDF](https://drive.google.com/open?id=1kGpSgucyQ7QoDAVYEbIWwjgQsIt1edQg)  
 [시즌 4 인쇄용 PDF](https://drive.google.com/open?id=1M6ViDLv9HJQ4DBbrioYMMwd5BHj56rsQ)  
+
 [전체 카드 PNG](https://drive.google.com/open?id=1CMMaJkBINSaIhrmmaIpBnYQfd0f7bBcQ)  
 [카드 요약표](https://drive.google.com/open?id=1OF2Ou6oBTPbc0zpjGwwfumI_RLkPBl58)
 
