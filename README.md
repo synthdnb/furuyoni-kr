@@ -30,8 +30,6 @@
 **출력시 원본 사이즈로 출력해주세요**  
 [링크](https://drive.google.com/open?id=1xW0_OPHkJOrLwnLMj4rQHRWvkHh5FA1r)  
 
-[카드 요약표](https://drive.google.com/open?id=1OF2Ou6oBTPbc0zpjGwwfumI_RLkPBl58)
-
 # Changelog
 ## 2018-08-06
 
