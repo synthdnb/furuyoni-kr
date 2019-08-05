@@ -28,22 +28,67 @@
 
 # Download
 **출력시 원본 사이즈로 출력해주세요**  
-[시즌 1 인쇄용 PDF](https://drive.google.com/open?id=10nlexT8ZUpCZCq8IO3LvgZ4iagDL97SM)  
-[시즌 2 인쇄용 PDF](https://drive.google.com/open?id=1cFCKGeVm_dRRvzVvNaxHWkYofknI_yOK)  
-[시즌 3 인쇄용 PDF](https://drive.google.com/open?id=1kGpSgucyQ7QoDAVYEbIWwjgQsIt1edQg)  
-[시즌 4 인쇄용 PDF](https://drive.google.com/open?id=1M6ViDLv9HJQ4DBbrioYMMwd5BHj56rsQ)  
+[링크](https://drive.google.com/open?id=1xW0_OPHkJOrLwnLMj4rQHRWvkHh5FA1r)  
 
-[전체 카드 PNG](https://drive.google.com/open?id=1CMMaJkBINSaIhrmmaIpBnYQfd0f7bBcQ)  
 [카드 요약표](https://drive.google.com/open?id=1OF2Ou6oBTPbc0zpjGwwfumI_RLkPBl58)
 
 # Changelog
-* 2019-07-30 : 호노카 na_14_honoka_o_s_3_s4 사계는 다시 돌아온다 텍스트 수정, 요약 PDF 추가  
-* 2019-07-30 : 시즌 4 인쇄용 PDF 추가
-* 2019-02-09 : 요약본 PDF 추가
-* 2019-01-30 : 호노카 na_14_honoka_o_n_1_ex2 돌격령식 효과 오류 수정  
-* 2019-01-22 : na_00_hajimari_b_n_4 카드명 수정. 가로카드 인쇄용 PDF에서 깨지는 문제 수정.
-* 2019-01-18 : 인쇄용 PDF 추가
-* 2019-01-17 : 첫 배포
+## 2018-08-06
+
+기존 카드 번역을 전부 검수해서 아래처럼 변경했습니다.
+
+### 공통
+- 사용하는 용어를 통일했습니다.
+  - 사용완료 -> 사용됨  
+  - 엎은패 -> 덮은패
+  - 비장의 패 -> 비장패  
+  - 행한다 -> 수행한다  
+  - 패산 -> 덱  
+  - xx패로 한다 -> xx패로 보낸다  
+  - +x/+x가 된다 -> +x/+x를 받는다  
+
+- 재기/즉재기 아이콘에 대한 번역을 추가했습니다.
+- 대부분의 
+
+### 캐릭터별 변경점
+
+유리나
+- 베기 ->  참
+- 쪽배에서 쉬노니 즉재기조건 오류 수정
+
+사이네
+- 단념 -> 간파
+
+토코요
+- 불변의 달 -> 토코요의 달
+- 볕의 소리 -> 햇볕의 소리
+
+유키히
+- 고양이속이기 -> 손뼉치기
+- 흩날리는 눈 -> 휘날리는 눈
+- 흔들리는 해 -> 일렁이는 불꽃
+
+신라
+- 계획 -> 계략으로 일괄 변경
+- 신라판증 효과 텍스트 오류 수정 (부여패 -> 다른 부여패)
+
+호노카
+- 개화에서 변경되는 카드 이름 명시
+
+
+## 2019-07-30 
+호노카 na_14_honoka_o_s_3_s4 사계는 다시 돌아온다 텍스트 수정, 요약 PDF 추가  
+시즌 4 인쇄용 PDF 추가
+## 2019-02-09
+요약본 PDF 추가
+## 2019-01-30
+호노카 na_14_honoka_o_n_1_ex2 돌격령식 효과 오류 수정  
+## 2019-01-22
+na_00_hajimari_b_n_4 카드명 수정. 가로카드 인쇄용 PDF에서 깨지는 문제 수정.
+## 2019-01-18
+인쇄용 PDF 추가
+## 2019-01-17
+첫 배포
 
 
 # 번역에 도움을 주신 분들
